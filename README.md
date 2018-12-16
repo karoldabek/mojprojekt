@@ -1,1 +1,2 @@
 # mojprojekt
+dopisujemy coś
